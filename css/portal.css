@@ -38,7 +38,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: #AEE1E1;
+    background-color: #aee1e1;
     overflow: auto;
 }
 
@@ -53,13 +53,13 @@ h2,h3 {
 }
 
 a {
-    color:#889EAFcyan;
+    color:#889;
     text-decoration: none;
 }
 
 a:hover {
-    color: #AEE1E1smoke;
-    background-color: #889EAFcyan;
+    color: #aee1e1;
+    background-color: #889;
     text-decoration: none;
 }
 
