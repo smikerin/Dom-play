@@ -1,33 +1,18 @@
 /* Global rules */
 
-@import url(https://fonts.google.com/specimen/Libre+Baskerville?query=libre+);
-
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
 
 html {
-    background-image: url(https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2094&q=80);
-    
-background-repeat: no-repeat;
+    background-image
 
--webkit-background-size: cover;
 
--moz-background-size: cover;
 
--o-background-size: cover;
+:selection 
 
-background-size: cover;
 
-background-position: center center;
-    font-family: 'Libre Baskerville', sans-serif;
-    font-size: 0.95em;
-    line-height: 1.5em;
-}
+back-ground; #ff0; 
 
-::selection {
-    color: #000; 
-    background: #ff0;
-}
 
 h1 {
     font-family: 'Courgette', sans-serif; 
