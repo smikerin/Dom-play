@@ -4,21 +4,23 @@
 
 
 html {
-    background-image
+    
 
 
 
-:selection 
 
 
-back-ground; #ff0; 
+
+background-color: azure; 
+
+}
 
 
 h1 {
     font-family: 'Courgette', sans-serif; 
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background-color: #fff;
     line-height: 2.5em;
 }
 
